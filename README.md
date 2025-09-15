@@ -33,8 +33,8 @@
   
   ## 🏆 Projetos Destacados
   
-  - [Projeto 1](https://github.com/euericmelo/projeto1): Em construção ⚠️
-  - [Projeto 2](https://github.com/euericmelo/projeto2): Em construção ⚠️
+  - [Projeto 1](https://github.com/euericmelo/petshop): Em construção ⚠️
+  - [Projeto 2](https://github.com/euericmelo/debugcafe): Em construção ⚠️
   - [Projeto 3](https://github.com/euericmelo/projeto3): Em construção ⚠️
   
   ## 🏆 Minhas Redes
