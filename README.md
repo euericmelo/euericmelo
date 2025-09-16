@@ -1,5 +1,5 @@
 
-<h1>Perfil Proficional 👩‍💻</h1>
+<h1>Perfil Profissional 👩‍💻</h1>
 <img src="https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif" alt="Software Developer">
   </div>
   
