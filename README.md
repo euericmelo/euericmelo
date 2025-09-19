@@ -52,3 +52,5 @@
   </div>
   
   Fique à vontade para entrar em contato comigo para discutir oportunidades de colaboração, projetos interessantes ou qualquer outro assunto relacionado ao desenvolvimento Web. Estou ansioso para ouvir de você! 😊
+
+[![card](https://github-readme-stats.vercel.app/api?username=euericmelo&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
