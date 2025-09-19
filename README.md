@@ -22,13 +22,11 @@
       [![My Skills](https://skillicons.dev/icons?i=javascript,php,python)](https://skillicons.dev)
   - Frameworks e Bibliotecas: 
   
-      [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
-  - Dados: 
-  
-      [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+      [![My Skills](https://skillicons.dev/icons?i=react,sass)](https://skillicons.dev)
+
   - Ferramentas e Tecnologias: 
   
-      [![My Skills](https://skillicons.dev/icons?i=visualstudio,git,github)](https://skillicons.dev)
+      [![My Skills](https://skillicons.dev/icons?i=visualstudio,git,github,deploy)](https://skillicons.dev)
   - Desenvolvimento Web:
   
       [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
@@ -54,5 +52,3 @@
   </div>
   
   Fique à vontade para entrar em contato comigo para discutir oportunidades de colaboração, projetos interessantes ou qualquer outro assunto relacionado ao desenvolvimento Web. Estou ansioso para ouvir de você! 😊
-  
-  ![DevMartins GitHub stats](https://github-readme-stats.vercel.app/api?username=DevMartins&show_icons=true&theme=dark) <br><br>
