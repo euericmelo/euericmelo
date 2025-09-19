@@ -19,14 +19,14 @@
   
   - Linguagens de Programação: 
   
-      [![My Skills](https://skillicons.dev/icons?i=javascript,php,python)](https://skillicons.dev)
+      [![My Skills](https://skillicons.dev/icons?i=javascript)](https://skillicons.dev)
   - Frameworks e Bibliotecas: 
   
-      [![My Skills](https://skillicons.dev/icons?i=react,sass)](https://skillicons.dev)
+      [![My Skills](https://skillicons.dev/icons?i=react,sass,bootstrap)](https://skillicons.dev)
 
   - Ferramentas e Tecnologias: 
   
-      [![My Skills](https://skillicons.dev/icons?i=visualstudio,git,github,deploy)](https://skillicons.dev)
+      [![My Skills](https://skillicons.dev/icons?i=visualstudio,git,github,netlify,vercel)](https://skillicons.dev)
   - Desenvolvimento Web:
   
       [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
