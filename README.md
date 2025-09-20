@@ -13,7 +13,9 @@
   
   ## 👋 Olá!
   
-  Sou um desenvolvedor web  fanático por tecnologia, com foco em criar soluções inovadoras e impactantes. Com uma sólida formação em programação e uma mente curiosa, estou sempre em busca de novos desafios para expandir meu conhecimento e habilidades, e assim crescer cada vez mas na minha carreira como dev
+  💻 Desenvolvedor Front-End em início de carreira, com foco em criar interfaces modernas, responsivas e intuitivas. Possuo experiência prática com HTML, CSS, JavaScript, Git e GitHub, além de estar me aprofundando em React, Sass, Bootstrap, Netlify e Vercel para desenvolver e hospedar aplicações dinâmicas e interativas.
+
+Sou apaixonado por aprender novas tecnologias, aplicar boas práticas de desenvolvimento e transformar ideias em soluções funcionais. Estou em busca da minha primeira oportunidade profissional para evoluir como desenvolvedor e contribuir em projetos reais que gerem impacto.
   
   ## 🚀 Habilidades Técnicas
   
