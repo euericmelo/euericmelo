@@ -35,8 +35,9 @@ Sou apaixonado por aprender novas tecnologias, aplicar boas práticas de desenvo
   
   ## 🏆 Projetos Destacados
   
-  - [Projeto 1](https://github.com/euericmelo/PetCode): Em construção ⚠️
-  - [Projeto 2](https://github.com/euericmelo/DebugCafe): Em construção ⚠️
+  - [Projeto 1](https://github.com/euericmelo/PetCode): 
+  Projeto Pet Shop 🐾
+  - [Projeto 2](https://github.com/euericmelo/DebugCafe): Projeto Cafeteria ☕️
   - [Projeto 3](https://github.com/euericmelo/projeto3): Em construção ⚠️
   
   ## 🏆 Minhas Redes
